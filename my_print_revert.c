@@ -1,4 +1,7 @@
-void my_print_revet(char *toRevert.c);
+void my_print_revet(char *toRevert);
 {
-    for(i)
+    while(int i=0;toRevert[i]!='\0'; i++);
+    char * reverted = "";
+    while (i>=0;i-- )
+
 }
